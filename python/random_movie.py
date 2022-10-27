@@ -10,8 +10,9 @@ logging.getLogger("DevTools").setLevel(logging.WARNING)
 
 url = 'https://www.netflix.com/browse'
 
-email = 'thiago00silva00melo@gmail.com'
-senha = 'Tima123456'
+#preencha sua conta aqui
+email = '' 
+senha = ''
 
 generos = ["romance", "animes", "comedia", "ação", "drama", "policiais"]
 

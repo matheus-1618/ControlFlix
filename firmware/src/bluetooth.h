@@ -15,7 +15,7 @@
 #include "conf_board.h"
 #include <string.h>
 
-#define DEBUG_SERIAL
+//#define DEBUG_SERIAL
 
 #ifdef DEBUG_SERIAL
 #define USART_COM USART1
