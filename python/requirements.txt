@@ -1,0 +1,6 @@
+pyserial
+pyautogui
+pycaw
+numpy
+selenium
+threading
